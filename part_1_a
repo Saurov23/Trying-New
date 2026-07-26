@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forever Sia ❤️</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<div id="stars"></div>
+
+<div class="moon"></div>
+
+<audio id="bgMusic" loop>
+    <source src="music/until_i_found_you.mp3" type="audio/mpeg">
+</audio>
+
+<div class="glass">
+
+    <h1>Forever Sia ❤️</h1>
+
+    <h3>Hi Sia... 🥹</h3>
+
+    <p id="message">
+
+        Before you continue...
+
+        <br><br>
+
+        I just want one chance...
+
+        to speak from my heart.
+
+    </p>
+
+    <button id="startBtn">
+
+        Start Our Story ❤️
+
+    </button>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
